@@ -1,0 +1,1 @@
+const xauusd = document.querySelector("");
